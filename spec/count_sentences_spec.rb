@@ -1,3 +1,4 @@
+require 'pry'
 describe String, "#count_sentences" do
 
   it  "returns the number of sentences in a string" do
